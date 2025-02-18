@@ -40,5 +40,6 @@ git commit -m "Initial commit - Streamlit Cybersecurity Detection" #Commit with 
 git branch -M main #Rename Current Branch to `main`, just in case
 git push -f origin main #Push Changed to `main`
 git branch readme-handler #Create new branch `readme-handler`
-git checkout readme-handler
+git checkout readme-handler #CheckOut `readme-handler` branch
+git push origin readme-handler #Push New Branch to Repo
 ```
