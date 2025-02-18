@@ -6,6 +6,7 @@ import numpy as np
 
 # Disable GPU (Optional)
 tf.config.set_visible_devices([], 'GPU')  # Disable default GPU setting
+print("Available devices:", tf.config.list_physical_devices())
     
 # Load preprocessor and model
 @st.cache_resource
