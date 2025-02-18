@@ -4,3 +4,5 @@ tensorflow
 joblib
 scikit-learn
 dill
+tensorflow
+tensorflow-gpu
