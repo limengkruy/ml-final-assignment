@@ -4,4 +4,3 @@ tensorflow
 joblib
 scikit-learn
 dill
-tensorflow
