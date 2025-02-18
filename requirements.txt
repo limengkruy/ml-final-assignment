@@ -3,3 +3,4 @@ pandas
 tensorflow
 joblib
 scikit-learn
+dill
